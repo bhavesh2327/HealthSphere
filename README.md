@@ -124,7 +124,7 @@ _In order to install the app you need to follow the instructions below :_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ahlem-phantom/AI-HealthCare-Assistant.git
+ git clone https://github.com/bhavesh2327/AIhealthassitant.git
    ```
 2. Install NPM packages dependencies 
    ```sh
