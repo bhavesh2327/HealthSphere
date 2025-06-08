@@ -7,10 +7,8 @@
 <h3 align="center">AI-HealthCare-Assistant</h3>
   
   <p align="center">
-This is the official AI-HealthCare-Assistant documentation <br/>
-  </p>
- <a href="https://www.youtube.com/watch?v=Kxqa83Us1m4&t=1s">
-    <img src="https://img.youtube.com/vi/Kxqa83Us1m4/0.jpg"/>
+This are details of AI-HealthCare-Assistant <br/>
+
   </a>
  </div>
 
