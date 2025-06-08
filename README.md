@@ -4,10 +4,10 @@
   <div id="badges">
 
   </div>
-<h3 align="center">AI-HealthCare-Assistant</h3>
-  
-  <p align="center">
-This are details of AI-HealthCare-Assistant <br/>
+<p align="center">
+  <strong>AI Health Assistant</strong><br>
+  An intelligent health companion powered by AI & modern web technologies.
+</p>
 
   </a>
  </div>
