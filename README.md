@@ -166,7 +166,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- ROADMAP -->
 ## 🚩 Roadmap
 
-See the [open issues](https://github.com/ahlem-phantom/AI-HealthCare-Assistant/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/bhavesh2327/HealthSphere/issues) for a list of proposed features (and known issues).
 
  - [x] Phase 1 : Project Study, Requirement Analysis and Prototyping 
 	 - Problematic definition 
