@@ -4,7 +4,7 @@
   <div id="badges">
 
   </div>
-<p align="center">
+<p align="center"> 
   <strong>AI Health Assistant</strong><br>
   An intelligent health companion powered by AI & modern web technologies.
 </p>
