@@ -5,7 +5,7 @@
 
   </div>
 <p align="center"> 
-  <strong>AI Health Assistant</strong><br>
+  <strong>AI Health Assistant</strong><br> 
   An intelligent health companion powered by AI & modern web technologies.
 </p>
 
