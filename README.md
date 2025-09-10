@@ -64,20 +64,15 @@ Open localhost:3000 in the browser and enjoy 🎉!
 
 <p align="right">(<a href="#top">back to top</a>)</p> <!-- USAGE EXAMPLES -->
 ⚡ Usage
-<img src="https://user-images.githubusercontent.com/78981558/177000911-0c4cb2ca-aff1-4416-be97-5b9173215c9a.png" width="900" height="300"/><br> Choose a role	<img src="https://user-images.githubusercontent.com/78981558/177001216-8e8c9cc2-09cd-4c7a-9639-94ec384432cb.png" width="900" height="300"/> <br>FaceID Login
-<img src="https://user-images.githubusercontent.com/78981558/177000941-82057aa0-5496-4b69-9aa1-a1c042395fe1.png" width="900" height="300"/>
-CardId verification	<img src="https://user-images.githubusercontent.com/78981558/177001352-2aab27c9-e939-4782-b2d9-0181a8888d13.png" width="900" height="300"/>
-Success of cardID verification
-<img src="https://user-images.githubusercontent.com/78981558/177001224-b804c0df-5db0-4d4c-b83e-de964c501b0b.png" width="900" height="300"/>
-List of blogs	<img src="https://user-images.githubusercontent.com/78981558/177000917-86dba137-ba0f-4dfd-83c3-a18fd902be11.png" width="900" height="300"/>
-Web scraping search
-<img src="https://user-images.githubusercontent.com/78981558/177001237-8932f8c4-31b1-4939-b3f0-042713444cb1.png" width="900" height="300"/>
-List of appointments	<img src="https://user-images.githubusercontent.com/78981558/177001041-1dec9540-ec50-47e5-8c79-22dee3dece61.png" width="900" height="300"/>
-Symptoms detection : List of symptoms
-<img src="https://user-images.githubusercontent.com/78981558/177000997-ecd9c0bc-e3ca-4d0b-bb75-2e55bde0f690.png" width="900" height="300"/>
-Symptoms detection : Suggestions	<img src="https://user-images.githubusercontent.com/78981558/177001043-cb8110c3-f1a0-4e2a-b9cd-ef393cbf5ec4.png" width="900" height="300"/>
-Symptoms detection : Suggestions
-<p align="right">(<a href="#top">back to top</a>)</p> <!-- ROADMAP -->
+## ⚡ Usage  
+
+| <img src="https://user-images.githubusercontent.com/78981558/177000911-0c4cb2ca-aff1-4416-be97-5b9173215c9a.png" width="450"/> <br> **Choose a role** | <img src="https://user-images.githubusercontent.com/78981558/177001216-8e8c9cc2-09cd-4c7a-9639-94ec384432cb.png" width="450"/> <br> **FaceID Login** |
+|---|---|
+| <img src="https://user-images.githubusercontent.com/78981558/177000941-82057aa0-5496-4b69-9aa1-a1c042395fe1.png" width="450"/> <br> **CardId verification** | <img src="https://user-images.githubusercontent.com/78981558/177001352-2aab27c9-e939-4782-b2d9-0181a8888d13.png" width="450"/> <br> **Success of cardID verification** |
+| <img src="https://user-images.githubusercontent.com/78981558/177001224-b804c0df-5db0-4d4c-b83e-de964c501b0b.png" width="450"/> <br> **List of blogs** | <img src="https://user-images.githubusercontent.com/78981558/177000917-86dba137-ba0f-4dfd-83c3-a18fd902be11.png" width="450"/> <br> **Web scraping search** |
+| <img src="https://user-images.githubusercontent.com/78981558/177001237-8932f8c4-31b1-4939-b3f0-042713444cb1.png" width="450"/> <br> **List of appointments** | <img src="https://user-images.githubusercontent.com/78981558/177001041-1dec9540-ec50-47e5-8c79-22dee3dece61.png" width="450"/> <br> **Symptoms detection : List of symptoms** |
+| <img src="https://user-images.githubusercontent.com/78981558/177000997-ecd9c0bc-e3ca-4d0b-bb75-2e55bde0f690.png" width="450"/> <br> **Symptoms detection : Suggestions** | <img src="https://user-images.githubusercontent.com/78981558/177001043-cb8110c3-f1a0-4e2a-b9cd-ef393cbf5ec4.png" width="450"/> <br> **Symptoms detection : Suggestions (Detailed)** |
+
 🚩 Roadmap
 
 See the open issues
