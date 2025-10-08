@@ -1,6 +1,5 @@
 const dialogflow = require('dialogflow')
 const dialogflowConfig = require('../config/devkey')
-
 const projectId = dialogflowConfig.project_id
 const configuration = {
   credentials: {
